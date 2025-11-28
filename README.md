@@ -1,4 +1,4 @@
-# Live Hindustan Clone -- AST Assignment
+# Live Hindustan Clone 
 
 
 ------------------------------------------------------------------------
